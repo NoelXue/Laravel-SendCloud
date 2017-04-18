@@ -35,5 +35,6 @@ class SendCloudServiceProvider extends ServiceProvider
     {
         echo'haha';
         echo'dev';
+        echo'bug';
     }
 }
