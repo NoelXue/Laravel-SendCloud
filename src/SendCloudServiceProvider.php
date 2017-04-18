@@ -35,11 +35,9 @@ class SendCloudServiceProvider extends ServiceProvider
     {
         echo'haha';
         echo'dev';
-<<<<<<< Updated upstream
         echo'bug';
         echo'bug11';
-=======
         echo'store';
->>>>>>> Stashed changes
+
     }
 }
