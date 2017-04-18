@@ -34,5 +34,6 @@ class SendCloudServiceProvider extends ServiceProvider
     public function boot()
     {
         echo'haha';
+        echo'dev';
     }
 }
